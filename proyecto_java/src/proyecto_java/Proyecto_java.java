@@ -10,6 +10,6 @@ public class Proyecto_java {
     }
    
     public static void morenapeña(){
-        
+        System.out.println("Hola mundo");
     }
 }
